@@ -3,7 +3,7 @@
 
 - 📚 Estudiando Front-end y Backend Stack MERN, En Coderhouse y Udemy
 
-- 📫 Puedes contactarme **Mateopainemaldev@gmail.com**
+- 📫 Puedes contactarme **mateopainemaldev@gmail.com**
 
 ## Mis Skills  
 
