@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Mateo Painemal</h1>
-<h3 align="center">Soy un front-end developer</h3>
+<h3 align="center">Soy un Front-End Developer</h3>
 
 - 💬 Se tecnologias como **Html, css, javascript, react.js, angular**
 
