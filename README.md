@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Mateo Painemal</h1>
 <h3 align="center">Soy un Front-End Developer</h3>
 
-https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif
-
 - 📚 Estudiando Front-end y backend Stack MERN, En Coderhouse y Udemy
 
 - 📫 Puedes contactarme **Mateopainemaldev@gmail.com**
