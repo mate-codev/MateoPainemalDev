@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Mateo Painemal</h1>
 <h3 align="center">Soy un Front-End Developer</h3>
 
-- 💬 Estudiando tecnologias como **Html, css, javascript, react.js, angular** en coderhouse y udemy
+- 📚 Estudiando Front-end y backend Stack MERN, En Coderhouse y Udemy
 
 - 📫 Puedes contactarme **Mateopainemaldev@gmail.com**
 
