@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Mateo Painemal</h1>
-<h3 align="center">Soy un Front-End Developer</h3>
+<h3 align="center">Soy un Front-End Developer en proceso</h3>
 
 - 📚 Estudiando Front-end y Backend Stack MERN, En Coderhouse y Udemy
 
