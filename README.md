@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Mateo Painemal</h1>
 <h3 align="center">Soy un Front-End Developer</h3>
 
-- 💬 Se tecnologias como **Html, css, javascript, react.js, angular**
+- 💬 Estudiando tecnologias como **Html, css, javascript, react.js, angular**
 
 - 📫 Puedes contactarme **Mateopainemaldev@gmail.com**
 
